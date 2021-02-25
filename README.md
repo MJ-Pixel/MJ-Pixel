@@ -1,6 +1,5 @@
-Hi, I’m Mikael
-I’m a student of Oulu university of applied sciences
-You can see some of the projects ive made and been part of on my github
-
+Hi, my name is Mikael
+I’m a student at Oulu university of applied sciences
+You can see some of the projects here that i have been working
 
 
